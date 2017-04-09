@@ -1,0 +1,16 @@
+C:\Users\telik\OneDrive\Документы\Visual Studio 2015\Projects\MedFlagman\MedFlagman\bin\Debug\MedFlagman.exe.config
+C:\Users\telik\OneDrive\Документы\Visual Studio 2015\Projects\MedFlagman\MedFlagman\bin\Debug\MedFlagman.exe
+C:\Users\telik\OneDrive\Документы\Visual Studio 2015\Projects\MedFlagman\MedFlagman\bin\Debug\MedFlagman.pdb
+C:\Users\telik\OneDrive\Документы\Visual Studio 2015\Projects\MedFlagman\MedFlagman\obj\Debug\MedFlagman.csprojResolveAssemblyReference.cache
+C:\Users\telik\OneDrive\Документы\Visual Studio 2015\Projects\MedFlagman\MedFlagman\obj\Debug\MainWindow.g.cs
+C:\Users\telik\OneDrive\Документы\Visual Studio 2015\Projects\MedFlagman\MedFlagman\obj\Debug\Report.g.cs
+C:\Users\telik\OneDrive\Документы\Visual Studio 2015\Projects\MedFlagman\MedFlagman\obj\Debug\App.g.cs
+C:\Users\telik\OneDrive\Документы\Visual Studio 2015\Projects\MedFlagman\MedFlagman\obj\Debug\MedFlagman_MarkupCompile.cache
+C:\Users\telik\OneDrive\Документы\Visual Studio 2015\Projects\MedFlagman\MedFlagman\obj\Debug\MedFlagman_MarkupCompile.lref
+C:\Users\telik\OneDrive\Документы\Visual Studio 2015\Projects\MedFlagman\MedFlagman\obj\Debug\MainWindow.baml
+C:\Users\telik\OneDrive\Документы\Visual Studio 2015\Projects\MedFlagman\MedFlagman\obj\Debug\Report.baml
+C:\Users\telik\OneDrive\Документы\Visual Studio 2015\Projects\MedFlagman\MedFlagman\obj\Debug\MedFlagman.g.resources
+C:\Users\telik\OneDrive\Документы\Visual Studio 2015\Projects\MedFlagman\MedFlagman\obj\Debug\MedFlagman.Properties.Resources.resources
+C:\Users\telik\OneDrive\Документы\Visual Studio 2015\Projects\MedFlagman\MedFlagman\obj\Debug\MedFlagman.csproj.GenerateResource.Cache
+C:\Users\telik\OneDrive\Документы\Visual Studio 2015\Projects\MedFlagman\MedFlagman\obj\Debug\MedFlagman.exe
+C:\Users\telik\OneDrive\Документы\Visual Studio 2015\Projects\MedFlagman\MedFlagman\obj\Debug\MedFlagman.pdb
